@@ -1,0 +1,12 @@
+{
+  "name": "chatgpt-search",
+  "version": "1.0.0",
+  "description": "A Google Custom Search API integration for ChatGPT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
